@@ -1,6 +1,6 @@
 ### Hello there 👋
    <!-- <a> <img src="https://fypmoon.org/assets/images/1707235825163.png" alt="surname" align="center" height="40%" width="40%"></a> -->
-<img src="https://komarev.com/ghpvc/?username=oneofremii&label=Profile%20views:&color=brightgreen">
+<img src="https://komarev.com/ghpvc/?username=koiverse&label=Profile%20views:&color=brightgreen">
 
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`
 - 💅 Designed: @pestphp, [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm)
@@ -47,11 +47,11 @@
   </div>
  <br>
     
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/koimoee?cardType=level&theme=material-palenight&preferLogin=false&Ring=82AAFF&Text=82AAFF&Title=82AAFF&Border=FFFFFF00&Background=FFFFFF00)](https://github.com/koimoee)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/koiverse?cardType=level&theme=material-palenight&preferLogin=false&Ring=82AAFF&Text=82AAFF&Title=82AAFF&Border=FFFFFF00&Background=FFFFFF00)](https://github.com/koiverse)
 
    
   <a href="https://fypmoon.org" >
-   <img src="https://lanyard.kyrie25.me/api/886971572668219392?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&idleMessage=Probably%20doing%20something%20else...">
+   <img src="https://lanyard.cnrad.dev/api/886971572668219392?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&idleMessage=Probably%20doing%20something%20else...">
   </a>
   <br>
   <br>
