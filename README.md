@@ -8,9 +8,7 @@
 
 #### Related Link
 <div>
-    <a href="https://prplmoe.me"><img src="https://prplmoe.me/assets/favicon/android-chrome-192x192.png" height="25" width="25"></a>
-    &nbsp;
-    <a href="https://prplmoe.me/me"><img src="https://i.imgur.com/CZU39q2.png" height="25" width="25"></a>
+    <a href="https://prplmoe.me"><img src="https://koiiverse.cloud/assets/favicon/android-chrome-192x192.png" height="25" width="25"></a>
     &nbsp;
 </div>
 
@@ -59,4 +57,4 @@
 [![An image of @koimoee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koimoee)](https://holopin.io/@koimoee)
     
 ##### This code is licensed under CC BY-NC-ND.
-##### Any My ArtWork Licensed Under [Proprietary License.](https://fypmoon.org/license/pl)
+##### Any My ArtWork Licensed Under **Proprietary License**.
