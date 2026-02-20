@@ -4,7 +4,7 @@
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
 
-<a href="https://prplmoe.me">
+<a href="https://koiiverse.cloud">
   <img src="https://koiiverse.cloud/assets/favicon/android-chrome-192x192.png" height="40" width="40" alt="prplmoe">
 </a>
 
@@ -32,7 +32,7 @@
 </p>
 
 <p align="left">
-  <a href="https://fypmoon.org">
+  <a href="https://koiiverse.cloud">
     <img src="https://lanyard.cnrad.dev/api/886971572668219392?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&idleMessage=Probably%20doing%20something%20else..." alt="Discord Status">
   </a>
 </p>
