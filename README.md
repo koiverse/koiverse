@@ -43,6 +43,8 @@
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=koiverse&label=Profile%20views:&color=brightgreen&style=for-the-badge&abbreviated=true" alt="Profile Views">
+
 ---
 
 <div align="center">
