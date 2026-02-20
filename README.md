@@ -2,10 +2,23 @@
 <img max-width="800" src="https://raw.githubusercontent.com/koiverse/koiverse/refs/heads/main/src/koibanner.jpg"/>
 </div>
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="kyubey"/> Links
 
-<a href="https://koiiverse.cloud">
-  <img src="https://koiiverse.cloud/assets/favicon/android-chrome-192x192.png" height="40" width="40" alt="prplmoe">
+<a href="https://koiiverse.cloud" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://koiiverse.cloud/assets/favicon/android-chrome-192x192.png" 
+    height="40" 
+    width="40" 
+    alt="Koiiverse"
+  >
+</a>
+<a href="https://bento.me/koiverse" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://raw.githubusercontent.com/koiverse/koiverse/refs/heads/main/src/bento-me-icon.png" 
+    height="40" 
+    width="40" 
+    alt="Bento"
+  >
 </a>
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Languages & Tools
