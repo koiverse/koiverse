@@ -1,15 +1,14 @@
 <div align="center">
-<img max-width="800" src="https://raw.githubusercontent.com/koiverse/koiverse/refs/heads/main/src/koibanner.jpg"/>
+<img max-width="600" src="https://raw.githubusercontent.com/koiverse/koiverse/refs/heads/main/src/koibanner.jpg"/>
 </div>
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="kyubey"/> Links
 
-<p>
+<p style="display:flex; align-items:center; gap:14px;">
   <a href="https://koiiverse.cloud">
     <img 
       src="https://koiiverse.cloud/assets/favicon/android-chrome-192x192.png"
       height="40"
-      width="40"
       alt="Koiiverse"
     >
   </a>
@@ -18,27 +17,27 @@
     <img 
       src="https://raw.githubusercontent.com/koiverse/koiverse/refs/heads/main/src/bento-me-icon.png"
       height="40"
-      width="40"
       alt="Bento"
     >
   </a>
 </p>
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Languages & Tools
-<p>
-  <a href="https://aiscripts.com"><img src="https://skillicons.dev/icons?i=postgres" height="30" width="30" alt="PostgreSQL"></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="30" width="30" alt="MySQL"></a>
-  <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" height="30" width="30" alt="Kotlin"></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="30" width="30" alt="TypeScript"></a>
-  <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=javascript" height="30" width="30" alt="JavaScript"></a>
-  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="30" width="30" alt="Node.js"></a>
-  <a href="https://www.w3schools.com/cs/index.php"><img src="https://skillicons.dev/icons?i=cs" height="30" width="30" alt="C#"></a>
-  <a href="https://w3.org/html"><img src="https://skillicons.dev/icons?i=html" height="30" width="30" alt="HTML5"></a>
-  <a href="https://w3schools.com/css"><img src="https://skillicons.dev/icons?i=css" height="30" width="30" alt="CSS3"></a>
-  <a href="https://www.electronjs.org/"><img src="https://skillicons.dev/icons?i=electron" height="30" width="30" alt="Electron"></a>
-  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="30" width="30" alt="Git"></a>
-  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="30" width="30" alt="GitHub"></a>
-  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="30" width="30" alt="VS Code"></a>
+
+<p style="display:flex; flex-wrap:wrap; align-items:center; gap:10px;">
+  <a href="https://aiscripts.com"><img src="https://skillicons.dev/icons?i=postgres" height="30" alt="PostgreSQL"></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL"></a>
+  <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="Kotlin"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="30" alt="TypeScript"></a>
+  <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=javascript" height="30" alt="JavaScript"></a>
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js"></a>
+  <a href="https://www.w3schools.com/cs/index.php"><img src="https://skillicons.dev/icons?i=cs" height="30" alt="C#"></a>
+  <a href="https://w3.org/html"><img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML5"></a>
+  <a href="https://w3schools.com/css"><img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS3"></a>
+  <a href="https://www.electronjs.org/"><img src="https://skillicons.dev/icons?i=electron" height="30" alt="Electron"></a>
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="30" alt="Git"></a>
+  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub"></a>
+  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="30" alt="VS Code"></a>
 </p>
 
 <p align="left">
@@ -55,7 +54,7 @@
 
 <p align="left">
   <a href="https://holopin.io/@koimoee">
-    <img src="https://holopin.me/koimoee" alt="@koimoee's Holopin badges" height="410" width="410">
+    <img src="https://holopin.me/koimoee" alt="@koimoee's Holopin badges" height="200" width="600">
   </a>
 </p>
 
